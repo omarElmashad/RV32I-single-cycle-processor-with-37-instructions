@@ -24,7 +24,8 @@
 
 **transcript output
 
-![trans](https://github.com/user-attachments/assets/e97d616d-5682-47f0-be7e-3025a938d290)
+![tr](https://github.com/user-attachments/assets/50e6599a-1ed0-4963-ab16-1c6ce6f03d18)
+
 
 **waveform
 
